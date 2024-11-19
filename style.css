@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body{
+  background-color: rgb(27, 26, 26) ;
+  margin: 0px;
+}
+header{ 
+  background-color: rgb(139, 111, 165); color: rgb(71, 24, 116); padding: 5px;
+}
+main{ 
+  background-color: rgb(228, 228, 210); width: 400px; margin: auto ; padding: 25px; color: black;
+
+}
+footer{ 
+  background-color: rgb(139, 111, 165) ; color: rgb(71, 24, 116) ; padding: 10px;
+
+}
+div{ 
+  margin-top: 10px; padding: 10px ;
+  border-bottom:  1px solid green ;
+}
+.posteo{
+  background-color: rgb(179, 151, 204);
+}
+.anuncio{ 
+  background-color: rgb(150, 233, 205);
+}
+#foto-perfil{
+  border-radius: 50% ; width: 100px ; height: 100px ;
+}
+img{ 
+  width: 100% ;
+}    
+#nombre-usuario{ 
+  font-weight: bold;
+   font-family: "Raleway", sans-serif;
+border-bottom: 1px solid black;
+font-size: 20px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+h3{
+  font-family: "Bona Nova SC", serif;
+}
